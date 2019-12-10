@@ -1,0 +1,19 @@
+Origin: MikrotikAPI Tool
+Label: mikrotikapiping
+Codename: bionic
+Date: Tue, 10 Dec 2019 23:02:24 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ d6b375138ea9374113ba66fcba18fe8d 736 main/binary-amd64/Packages
+ 9dc698377912bbf0bdc0e8171a8e7045 497 main/binary-amd64/Packages.gz
+ 6044929c92b76e65f6b3b5263e5dcc99 117 main/binary-amd64/Release
+SHA1:
+ 69577b92430589b767b4b449baeff9a61c4a6ff1 736 main/binary-amd64/Packages
+ d37f0a8e44f89b80554d39ff535741a436018159 497 main/binary-amd64/Packages.gz
+ 5ff902cc3bf8d173f9549a4877bca34016ffc67a 117 main/binary-amd64/Release
+SHA256:
+ dc425d7b75172b66a492416db2cc1e74b5d326074748f348f237e3ceee377530 736 main/binary-amd64/Packages
+ dbd1b35c36fc2d411d6f6e40ae43ded498a070b19134048897a85145fadd2e30 497 main/binary-amd64/Packages.gz
+ 48dfdbb3ef295b435a3b9892510a68c448c65fd15f554005506c078fad3e3c0d 117 main/binary-amd64/Release

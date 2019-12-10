@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MikrotikAPI Tool
+Label: mikrotikapiping
+Codename: bionic
+Date: Tue, 10 Dec 2019 23:02:24 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ d6b375138ea9374113ba66fcba18fe8d 736 main/binary-amd64/Packages
+ 9dc698377912bbf0bdc0e8171a8e7045 497 main/binary-amd64/Packages.gz
+ 6044929c92b76e65f6b3b5263e5dcc99 117 main/binary-amd64/Release
+SHA1:
+ 69577b92430589b767b4b449baeff9a61c4a6ff1 736 main/binary-amd64/Packages
+ d37f0a8e44f89b80554d39ff535741a436018159 497 main/binary-amd64/Packages.gz
+ 5ff902cc3bf8d173f9549a4877bca34016ffc67a 117 main/binary-amd64/Release
+SHA256:
+ dc425d7b75172b66a492416db2cc1e74b5d326074748f348f237e3ceee377530 736 main/binary-amd64/Packages
+ dbd1b35c36fc2d411d6f6e40ae43ded498a070b19134048897a85145fadd2e30 497 main/binary-amd64/Packages.gz
+ 48dfdbb3ef295b435a3b9892510a68c448c65fd15f554005506c078fad3e3c0d 117 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE/eZsMhJqUmpdbkq3gUAC6FMHQWIFAl3wJAQACgkQgUAC6FMH
+QWLg0Qv/djpkv41Pu/iKycwwO945dii5U/tH3VWRD/2ZYjHfFvrtH7xiUrBPn9dk
+5xIp1nm8NjoOByXUgUByuiNhLbfcLRrxTReXZsn5lQFYp/hXUcHjkVNHQpbn0Usp
+Q11eUMyNwsPMr4+n3sPNaxj/acwYLFkhC0nIHeLcwHIylHij8HkYXc74lwm/ZM0G
+Wrq0GwMgJp5b91mOIivBWAVbmVgXX7faOZqJusSnrFI1Xcpi0ERI8lJ9BPyMCe58
+mGXjwK/ni99pr0YO8Q9AzoK76zdmqiTzV6RKuNe8QPHmCZSvtIlwJzng5pSIA53B
+qocEuVwPG9Ww+umnNPz9GHTFIxsj99HeELFt1w2d3Q2+YyD6B5aiRQkKRyghau7N
+i+40tVyYUnbgIxQgaOW33FCEqrk7SMkJK7JZNRyLLaKot1cSpLA01Fnf/hNxudo/
+3bre5lucM8akl+Gy0usnZ+NoiYWUdSxg2xzjU1qclZVbNYx6prexwUg1+6GbURGB
+n4OHcOUA
+=MbHg
+-----END PGP SIGNATURE-----
